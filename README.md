@@ -1,5 +1,7 @@
 ##### © 2019 DARJYO (Pty) Ltd. All rights reserved.
 
+##### DOI 10.57967/hf/4736
+
 ##### This dataset contains crop optimization information for various crops, including cabbages, green peppers, jam tomatoes, and marigold flowers. It is provided under the DARJYO License v1.0 for non-commercial research use only.
 ##### Version: 1.0
 ##### Author: Darshani Persadh, Research, Innovation & Development, DARJYO
